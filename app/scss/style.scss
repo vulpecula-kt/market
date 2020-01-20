@@ -1,0 +1,17 @@
+html{
+    box-sizing: border-box;
+}
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+}
+body{
+    background-color: green;
+}
+.box{
+    display: flex;
+}
+.test{
+text-align: center;
+}
